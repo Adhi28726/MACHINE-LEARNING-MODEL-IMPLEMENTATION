@@ -21,3 +21,7 @@ Social Media Platforms (Facebook, Twitter, LinkedIn):
 Spam Account Detection: These platforms use spam detection models to detect fake accounts, suspicious messages, and unwanted promotional content. Machine learning algorithms help identify and filter out bots and malicious content.
 Online Marketplaces (Amazon, eBay, etc.):
 Product Listings and Reviews: Spam detection is used to filter out fake reviews or fraudulent listings that are intended to mislead buyers. It helps ensure that product reviews are genuine and trustworthy.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/52a21f41-8cbd-42dd-9eec-d41a62e25359)
